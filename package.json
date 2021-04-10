@@ -1,0 +1,12 @@
+{
+  "name": "module_20",
+  "version": "1.0.0",
+  "description": "Модуль 20. Препроцессоры и работы с модулем NPM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass -r sass/style.scss -o css/"
+  },
+  "author": "Polinenko Sergey",
+  "license": "MIT"
+}
